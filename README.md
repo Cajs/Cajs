@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Cameron Stephen!
 <hr>
-<p><em>Lead Web Developer at <a href="https://codeheroes.co.uk">Codeheroes</a>
+<p><em>Lead Web Developer at <a href="https://codeheroes.co.uk">Codeheroes</a></p>
 
 
 ```php
@@ -32,6 +32,9 @@ class About extends Me
     }
 }
 ```
+
+### 📈 Stats
+<p><em>Note - Stats are calculated as the last 7 days from yesterday. Today's stats are not included.</em></p>
 
 
 <!--START_SECTION:waka-->
