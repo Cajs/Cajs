@@ -38,7 +38,7 @@ class About extends Me
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C100%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C101%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -82,12 +82,10 @@ VS Code                  1 hr 36 mins        ███████████�
 PhpStorm                 31 mins             ██████░░░░░░░░░░░░░░░░░░░   24.46%
 
 💻 Operating System: 
-'/third_party/PHPExcel.ph13 mins             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Aws                      13 mins             ████████░░░░░░░░░░░░░░░░░   33.33% 
-Imgix                    13 mins             ████████░░░░░░░░░░░░░░░░░   33.33%
+Windows                  2 hrs 8 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 04/09/2022 07:19:34 UTC
+ Last Updated on 04/09/2022 08:24:53 UTC
 <!--END_SECTION:waka-->
