@@ -38,7 +38,7 @@ class About extends Me
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C218%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C220%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,5 +87,5 @@ Windows                  17 hrs 46 mins      ███████████�
 ```
 
 
- Last Updated on 17/11/2022 21:06:20 UTC
+ Last Updated on 17/11/2022 22:07:56 UTC
 <!--END_SECTION:waka-->
