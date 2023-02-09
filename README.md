@@ -71,17 +71,16 @@ Sunday          34 commits       ░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-PHP                      14 mins             █████████████████████████   99.57 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 09/02/2023 00:20:27 UTC
+ Last Updated on 09/02/2023 01:34:09 UTC
 <!--END_SECTION:waka-->
