@@ -69,16 +69,15 @@ Sunday                   308 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-PHP                      49 mins             ███████████████████████░░   93.04 % 
-Blade Template           3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/12/2023 00:13:43 UTC
+ Last Updated on 30/12/2023 06:06:25 UTC
 <!--END_SECTION:waka-->
