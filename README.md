@@ -38,7 +38,7 @@ class About extends Me
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C999%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C008%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -69,15 +69,21 @@ Sunday                   564 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Nginx Configuration      7 hrs 5 mins        ███████████████████░░░░░░   75.50 % 
+PHP                      2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Docker                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Nginx configuration file 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 9 hrs 20 mins       █████████████████████████   99.47 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    9 hrs 20 mins       █████████████████████████   99.47 % 
+Mac                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
 
- Last Updated on 16/10/2024 00:17:46 UTC
+ Last Updated on 16/10/2024 06:08:40 UTC
 <!--END_SECTION:waka-->
