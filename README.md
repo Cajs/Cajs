@@ -38,7 +38,7 @@ class About extends Me
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C042%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C044%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -69,15 +69,17 @@ Sunday                   567 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 38 mins        ████████████████████████░   97.90 % 
+Blade Template           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 1 hr 41 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/11/2024 00:18:42 UTC
+ Last Updated on 07/11/2024 06:09:11 UTC
 <!--END_SECTION:waka-->
