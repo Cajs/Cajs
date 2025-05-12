@@ -1,6 +1,9 @@
 ### Hi 👋, I'm Cameron Stephen!
-<hr>
-<p><em>Lead Developer at <a href="https://prindatasolutions.co.uk">PDS</a></p>
+
+---
+
+Lead Developer at [PDS](https://prindatasolutions.co.uk)  
+Backend & Infrastructure enthusiast, focused on automation, clean architecture, and scalable platforms.
 
 
 ```php
