@@ -41,7 +41,7 @@ class About extends Me
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C499%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C496%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -86,5 +86,5 @@ Linux                    5 hrs 50 mins       ███████████�
 ```
 
 
- Last Updated on 29/05/2025 18:12:21 UTC
+ Last Updated on 30/05/2025 00:23:49 UTC
 <!--END_SECTION:waka-->
