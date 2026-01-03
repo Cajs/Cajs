@@ -41,46 +41,8 @@ class About extends Me
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C794%20hrs%2019%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                11960 commits       ███████░░░░░░░░░░░░░░░░░░   29.82 % 
-🌆 Daytime                23300 commits       ███████████████░░░░░░░░░░   58.09 % 
-🌃 Evening                4817 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-🌙 Night                  33 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   5823 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Tuesday                  7085 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Wednesday                9628 commits        ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
-Thursday                 8566 commits        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Friday                   7407 commits        █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-Saturday                 648 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Sunday                   953 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 03/01/2026 06:15:19 UTC
+ Last Updated on 03/01/2026 12:15:44 UTC
 <!--END_SECTION:waka-->
