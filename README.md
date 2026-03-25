@@ -41,7 +41,7 @@ class About extends Me
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C899%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C899%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -72,20 +72,20 @@ Sunday                   1089 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/London
 
 💬 Programming Languages: 
-PHP                      12 hrs 59 mins      █████████████████████░░░░   82.73 % 
-JavaScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Blade Template           58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Log                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+PHP                      7 hrs 23 mins       ███████████████████░░░░░░   76.31 % 
+JavaScript               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Blade Template           58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-PhpStorm                 15 hrs 42 mins      █████████████████████████   100.00 % 
+PhpStorm                 9 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    15 hrs 38 mins      █████████████████████████   99.57 % 
-Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Linux                    9 hrs 36 mins       █████████████████████████   99.31 % 
+Mac                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 
 
- Last Updated on 25/03/2026 00:34:26 UTC
+ Last Updated on 25/03/2026 06:43:51 UTC
 <!--END_SECTION:waka-->
