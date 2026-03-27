@@ -45,6 +45,46 @@ class About extends Me
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 27/03/2026 06:36:54 UTC
+```text
+🌞 Morning                15291 commits       ████████░░░░░░░░░░░░░░░░░   30.52 % 
+🌆 Daytime                29224 commits       ███████████████░░░░░░░░░░   58.33 % 
+🌃 Evening                5547 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+🌙 Night                  37 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   7225 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Tuesday                  8724 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Wednesday                11730 commits       ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Thursday                 11427 commits       ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+Friday                   9226 commits        █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+Saturday                 678 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Sunday                   1089 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+PHP                      3 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   40.61 % 
+Blade Template           2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   32.30 % 
+JavaScript               1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+
+🔥 Editors: 
+PhpStorm                 9 hrs 8 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    9 hrs 8 mins        █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 27/03/2026 12:25:07 UTC
 <!--END_SECTION:waka-->
